@@ -7,7 +7,7 @@
 
 **Nirmal** is a production-grade, GenAI-powered environmental decision-support platform designed to help citizens, families, and municipalities monitor, predict, understand, and reduce their exposure to severe urban air pollution and winter smog.
 
-Inspired by the clean, minimal, data-driven aesthetic of the **AeuxGlobal SaaS** product design, Nirmal bridges atmospheric physics and daily habit transformation turning raw environmental measurements into actionable clean air decisions.
+Inspired by the clean, minimal, Nirmal bridges atmospheric physics and daily habit transformation turning raw environmental measurements into actionable clean air decisions.
 
 ---
 
@@ -57,31 +57,11 @@ Inspired by the clean, minimal, data-driven aesthetic of the **AeuxGlobal SaaS**
 
 ---
 
-## 🎨 Visual Design Architecture (AeuxGlobal Inspired)
-
-Nirmal adopts a sophisticated, serene environmental SaaS palette:
-- **Deep Forest Green**: `#163D32` (Primary brand accent)
-- **Dark Green**: `#214F40` (Interactive elements & navigation)
-- **Fresh Green**: `#79A88C` (Progress indicators & highlights)
-- **Soft Mint**: `#DDECE3` (Delicate borders & background accents)
-- **Warm Off-White**: `#F7F8F3` (Light theme surface canvas)
-- **Charcoal Surface**: `#252D2A` & `#1D2421` (Crisp readable typography & dark theme cards)
-
-### Accessible CPCB Status Colors:
-- **Good (0–50)**: `#10B981` (Emerald)
-- **Satisfactory (51–100)**: `#84CC16` (Lime)
-- **Moderate (101–200)**: `#F59E0B` (Amber)
-- **Poor (201–300)**: `#F97316` (Orange)
-- **Very Poor (301–400)**: `#EF4444` (Red)
-- **Severe (401–500)**: `#7F1D1D` (Maroon)
-
----
-
 ## 🛠️ Technology Stack
 
 ### Frontend
 - **React.js (v18)** & **Vite (v6)**
-- **Tailwind CSS (v3)** with custom AeuxGlobal tokens
+- **Tailwind CSS (v3)** 
 - **Leaflet & React-Leaflet** for geospatial monitoring and route mapping
 - **Recharts** for diurnal area charts and sector bar visualizations
 - **Framer Motion** for smooth page and card transitions
