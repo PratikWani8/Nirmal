@@ -1,0 +1,23 @@
+{
+  "name": "nirmal-urban-air-quality-assistant",
+  "version": "1.0.0",
+  "description": "Nirmal - Urban Air Quality Assistant: Complete AI-Powered Environmental Intelligence Platform",
+  "scripts": {
+    "install:all": "npm --prefix server install && npm --prefix client install",
+    "server": "npm --prefix server start",
+    "server:dev": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "client:build": "npm --prefix client run build",
+    "test": "npm --prefix server test"
+  },
+  "keywords": [
+    "air-quality",
+    "cpcb-aqi",
+    "environmental-intelligence",
+    "smog-forecasting",
+    "what-if-simulator",
+    "genai"
+  ],
+  "author": "Nirmal Environmental Intelligence Team",
+  "license": "MIT"
+}
